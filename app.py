@@ -1,5 +1,4 @@
 # Importa il modulo math per le funzioni matematiche
-import math
 
 # Funzione per l'addizione
 def addizione(a, b):
@@ -68,7 +67,7 @@ def radice_quadrata(a):
   Returns:
     La radice quadrata di a.
   """
-  return math.sqrt(a)
+  return 1
 
 # Funzione per l'elevamento a potenza
 def potenza(a, b):
@@ -82,7 +81,7 @@ def potenza(a, b):
   Returns:
     a elevato alla potenza b.
   """
-  return math.pow(a, b)
+  return 1
 
 # Funzione principale
 def main():
